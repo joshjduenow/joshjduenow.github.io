@@ -1,1 +1,17 @@
+body {
+  background-color: rgb(110 150 150);
+  color: white;
+}
 
+div.header {
+  font-size: 24;
+  text-align: center;
+  border-width: medium;
+  border-style: solid;
+  
+}
+
+div.contact {
+  text-align: right;
+  
+}
