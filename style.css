@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(110 150 150);
-  color: white;
+  background-color: rgb(220 220 220);
+  color: black;
+  font-family: Arial, Helvetica, san-serif;
 }
 
 div.header {
