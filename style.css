@@ -7,10 +7,10 @@ body {
 div.header {
   font-size: 24;
   text-align: left;
-  border-width: medium;
-  border-style: solid;
+  border-style: none;
+  background-image: linear-gradient(to left, rgba(20,0,0,0), rgba(20,0,0,1));
   color: white;
-  background-color: rgba(20, 20, 20, .4);
+
   
 }
 
