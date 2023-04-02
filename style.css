@@ -6,9 +6,11 @@ body {
 
 div.header {
   font-size: 24;
-  text-align: center;
+  text-align: left;
   border-width: medium;
   border-style: solid;
+  color: white;
+  background-color: rgba(20, 20, 20, .4);
   
 }
 
