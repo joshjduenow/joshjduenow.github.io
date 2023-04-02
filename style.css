@@ -1,78 +1,57 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Joshua Duenow</title>
-    <link rel="stylesheet" href="style.css"/>
-     <img src="https://i.imgur.com/gko7gT9.jpg" alt="Joshua Duenow">
-  </head>
-  
-  <body>    
-    <div class="about-me">   
-      <h2>About Me</h2>
-      <p>Tag line</p>
-  
-    </div>
-    
-  <div class="header">
-     <h1>Joshua Duenow</h1>
-  </div>
-     <h3>18694 Esquire Way<br>
-          Farmington, MN 55024<br>
-          507-961-7019</h3>
-     <h4>E-mail:<br>
-        <a href="mailto:joshjduenow@gmail.com">JoshJDuenow@Gmail.com</a></h4> 
-     <h4>LinkedIn:<br>
-        <a href="https://www.linkedin.com/in/joshuaduenow/">linkedin.com/joshuaduenow</a></h4>
-    
-    <div class="prof-exp">
-      <h1>Airlift Special Missions Superintendent</h1>
-      <h2>U.S. Air Force Reserves</h2>
-      <h3>February 2022 - Current</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      
-      <h1>Aircraft Maintenance Supervisor</h1>
-      <h2>U.S. Air Force Reserves</h2>
-      <h3>November 2021 - January 2022</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      
-      <h1>Aircraft Maintenance Craftsman</h1>
-      <h2>U.S. Air Force Reserves</h2>
-      <h3>September 2013 - October 2022</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-    </div>
-      
-     <div class="edu-his">
-      <h1>Education</h1>
-      <h2>Community College of the Air Force</h2>
-      <h3>Maxwell, AL</h3>
-      <h4>Aviation Maintenance Technology</h4>
-      <h4>Awarded Associates Degree June 2021</h4>
-      <h2>Brown College</h2>
-      <h3>Minneapolis, MN</h3>
-      <h4>Multimedia Production</h4>
-      <h4>Awarded Associates Degree December 2003</h4>
+body {
+  background-color: rgb(220 220 220);
+  color: black;
+  font-family: Arial, Helvetica, san-serif;
+}
 
- 
-    </div>
-    
-    <div class="footer">
-      <h6>Copyright Joshua Duenow 2023</h6>
-    </div>
-    
-  </body>
-</html>
+div.header {
+  font-size: 24;
+  text-align: left;
+  border-style: none;
+  background-image: linear-gradient(to left, rgba(20,0,0,.2), rgba(20,0,0,1));
+  color: white;
+  opacity: 0.5;
+
+  
+}
+
+div.about-me{
+  text-align: right;
+  
+}
+
+img {
+  border-radius: 40%;
+  width: 200px;
+  position: relative;
+
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+div.contact {
+  text-align: right;
+  
+}
