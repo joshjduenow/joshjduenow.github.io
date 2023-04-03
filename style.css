@@ -4,38 +4,39 @@ body {
   font-family: "Arial", "Helvetica", san-serif;
 }
 
-aside {
-  padding-left: 250px;
-  margin-left: 250px;
-  background-color: white;
-  
-}
 
 div.header {
   font-size: 24;
   text-align: left;
   color: white;
   border-style: solid;
-  background-image: linear-gradient(to left, rgba(20,0,0,1), rgba(20,0,0,1));
-  border-color: black;
-  opacity: .35;
+  border-color: white;
+  border-width: 5px;
+  background-color: darkgray;
   height: 85px;
 
   
 }
 
-div.about-me{
- text-align: center;
-  right
-  margin-right: 250px;
-  margin-left: 400px;
+div.about-me {
+  text-align: center;
+  display: inline-block; 
+  margin-left: 250px;
+
+
+
+}
+span {
   
 }
 
 img {
-  border-radius: 40%;
   width: 200px;
-  display: inline-block;
+  border-radius: 40%;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+
 
 }
 
