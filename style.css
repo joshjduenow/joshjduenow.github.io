@@ -6,7 +6,11 @@ body {
 
 
 div.header {
-  font-size: 24;
+  font-family: sans-serif;
+  font-size: 24px;
+  text-indent: 10px;
+  line-height: .5;
+  word-spacing: 20px;
   text-align: left;
   color: white;
   border-style: solid;
