@@ -15,6 +15,7 @@ div.about-me {
 }
 
 div.header {
+  clear: right;
   font-family: sans-serif;
   font-size: 24px;
   text-indent: 10px;
