@@ -11,11 +11,12 @@ div.about-me {
   border-color: white;
   border-width: 5px;
   background-color: darkgray;
-  float: left;
-  padding: 30px;
-  width: 350px;
-  margin: 50px;
-  height: auto;
+  padding: 40px;
+  width: 750px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 250px;
+  height: 200px;
   text-align: center; 
 
 }
@@ -89,9 +90,9 @@ div.edu-his{
 
 img {
   float: left;
-  padding: 0px;
-  width: 200px;
-  margin: -10px;
+  width: 197px;
+  margin-left: 255px;
+  margin-top: 6px;
 
 
 }
