@@ -24,7 +24,7 @@ div.header {
   clear: left;
   font-family: sans-serif;
   font-size: 24px;
-  text-indent: 10px;
+  text-indent: 60px;
   line-height: .5;
   word-spacing: 20px;
   text-align: left;
@@ -39,19 +39,21 @@ div.header {
 }
 
 div.contact {
+  text-align: center;
+  word-wrap: break-word;
   float: right;
   clear: right;
   border-left: solid;
   border-right: solid;
   border-color: white;
   border-width: 5px;
-  padding: px;
   width: 25%;
   background-color: darkgray;
   
 }
 
 div.skills{
+  text-indent: 10px;
   float: right;
   clear: right;
   border-left: solid;
@@ -67,17 +69,20 @@ div.skills{
 }
 
 div.prof-exp {
+  text-indent: 20px;
   float: left;
+  clear: left;
   width: 50%;
-  padding: 5px;
-  
+  margin-left: 40px;
 }
 
 
 div.edu-his{
+  text-indent: 20px;
   float: left;
   padding: 5px;
   width: 50%;
+  margin-left: 40px;
   
 }
 
