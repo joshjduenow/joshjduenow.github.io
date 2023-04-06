@@ -19,7 +19,8 @@ div.about-me {
   margin-right: 250px;
   height: 280px;
   width: 50%;
-  text-align: center; 
+  text-align: center;
+  overflow: hidden;
 
 }
 
