@@ -6,17 +6,19 @@ body {
 
 
 div.about-me {
+  clear: right;
   color: white;
   border-style: solid;
   border-color: white;
   border-width: 5px;
   background-color: darkgray;
-  padding: 40px;
-  width: 750px;
+  padding: 0px;
   margin-top: 30px;
   margin-bottom: 30px;
   margin-left: 250px;
-  height: 200px;
+  margin-right: 250px;
+  height: 280px;
+  width: 50%;
   text-align: center; 
 
 }
