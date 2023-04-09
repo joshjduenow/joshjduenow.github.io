@@ -19,6 +19,23 @@ div.about-me {
 
 }
 
+#aboutme {
+  color: black;
+  height: 180px;
+  max-width: 55%;
+  margin-top: -5px;
+  margin-left: 375px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 5px;
+  border-color: white;
+  text-align: center;
+  word-wrap: break-word;
+  
+}
+
 
 div.header {
   clear: left;
