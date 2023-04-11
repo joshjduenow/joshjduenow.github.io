@@ -14,17 +14,20 @@ div.about-me {
   padding: 0px;
   margin-bottom: 30px;
   height: 280px;
-  text-align: center;
-  word-wrap: break-word;
 
 }
 
-#aboutme {
+#about-me {
+  text-align: center;
+
+}
+
+#bragarea {
   color: black;
   height: 180px;
-  max-width: 55%;
+  max-width: 50%;
   margin-top: -5px;
-  margin-left: 395px;
+  margin-left: 35%;
   padding-top: 5px;
   padding-bottom: 5px;
   border-top: solid;
@@ -32,13 +35,12 @@ div.about-me {
   border-width: 5px;
   border-color: white;
   text-align: center;
-  word-wrap: break-word;
-  
+
 }
 
 
 div.header {
-  clear: left;
+  clear: right;
   font-family: sans-serif;
   font-size: 24px;
   text-indent: 40px;
@@ -126,6 +128,7 @@ div.edu-his{
 
 img {
   float: left;
+  clear: right;
   width: 197px;
   margin-left: 6px;
   margin-top: 6px;
