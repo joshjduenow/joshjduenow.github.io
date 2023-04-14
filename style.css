@@ -64,7 +64,7 @@ div.header {
 
 #hehim {
   text-align: left;
-  clear: right;
+  clear: left;
   font-style: italic;
   font-size: 25px;
   margin-top: -44px;
@@ -117,6 +117,7 @@ div.pro-sup {
   border-width: 5px;
   clear: left;
   width: 60%;
+  height: 45%;
   margin-left: 40px;
   padding-bottom: 40px;
   line-height: 1;
@@ -128,6 +129,7 @@ div.flt-chief {
   border-width: 5px;
   clear: left;
   width: 60%;
+  height: 45%;
   margin-left: 40px;
   padding-bottom: 40px;
   line-height: 1;
@@ -138,6 +140,7 @@ div.cc {
   border-width: 5px;
   clear: left;
   width: 60%;
+  height: 45%;
   margin-left: 40px;
   padding-bottom: 40px;
   line-height: 1;
@@ -151,6 +154,7 @@ div.edu-his {
   margin-left: 40px;
   line-height: 1;
   width: 60%;
+  height: 45%;
   
 }
 
