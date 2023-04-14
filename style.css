@@ -36,8 +36,11 @@ div.about-me {
   padding-bottom: 5px;
   border-top: solid;
   border-bottom: solid;
+  border-left: none;
+  border-right: none;
   border-width: 5px;
   border-color: white;
+  overflow: hidden;
 
 }
 
@@ -82,6 +85,8 @@ div.contact {
   width: 25%;
   height: 250px;
   background-color: darkgray;
+  line-height: 1.5;
+  font-size: 20px;
   
 }
 
@@ -89,6 +94,8 @@ div.contact {
 div.skills {
   text-align: center;
   text-indent: 10px;
+  font-size: 20px;
+  font-weight: bold;
   word-wrap: break-word;
   float: right;
   clear: both;
@@ -101,6 +108,7 @@ div.skills {
   width: 25%;
   background-color: darkgray;
   height: 1250px;
+  line-height: 1.5;
   
 }
 
@@ -142,6 +150,7 @@ div.edu-his {
   margin-top: px;
   margin-left: 40px;
   line-height: 1;
+  width: 60%;
   
 }
 
