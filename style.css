@@ -107,7 +107,7 @@ div.skills {
   border-width: 5px;
   width: 25%;
   background-color: darkgray;
-  height: 1250px;
+  height: 1350px;
   line-height: 1.5;
   
 }
@@ -119,8 +119,8 @@ div.pro-sup {
   width: 60%;
   height: 45%;
   margin-left: 40px;
-  padding-bottom: 40px;
-  line-height: 1;
+  padding-bottom: 0px;
+  line-height: 1.4;
   
 }
 
@@ -132,7 +132,7 @@ div.flt-chief {
   height: 45%;
   margin-left: 40px;
   padding-bottom: 40px;
-  line-height: 1;
+  line-height: 1.4;
 }
 
 div.cc {
@@ -143,7 +143,7 @@ div.cc {
   height: 45%;
   margin-left: 40px;
   padding-bottom: 40px;
-  line-height: 1;
+  line-height: 1.4;
 }
 
 
