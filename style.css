@@ -5,7 +5,7 @@ body {
 }
 
 
-div.about-me {
+div.profile {
   color: white;
   border-style: solid;
   border-color: white;
@@ -66,8 +66,8 @@ div.header {
   clear: right;
   font-style: italic;
   font-size: 25px;
-  margin-top: -44px;
-  margin-left: 400px;
+  margin-top: -20px;
+  margin-left: 300px;
   
 }
 
@@ -91,7 +91,8 @@ div.contact {
   float: right;
   clear: right;
   margin-top: -1px;
-  margin-right: 50px;
+  margin-right: 55px;
+  margin-left: 40px;
   letter-spacing: 3px;
   border-bottom: solid;
   border-width: 5px;
@@ -115,7 +116,7 @@ div.skills {
   border-width: 5px;
   width: 25%;
   background-color: darkgray;
-  height: 1250px;
+  height: 1350px;
   
 }
 
@@ -123,6 +124,7 @@ div.skills {
   float: right;
   clear: right;
   margin-right: 50px;
+  margin-left: 10px;
   letter-spacing: 3px;
   border-bottom: solid;
   border-width: 5px;
@@ -165,8 +167,9 @@ div.cc {
 div.edu-his {
   float: left;
   padding: 5px;
-  margin-top: px;
+  margin-top: 0px;
   margin-left: 40px;
+  width: 60%;
   line-height: 1;
   
 }
