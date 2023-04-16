@@ -116,7 +116,8 @@ div.skills {
   border-width: 5px;
   width: 25%;
   background-color: darkgray;
-  height: 1350px;
+  height: 1250px;
+  max-height: 1600px;
   
 }
 
