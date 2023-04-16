@@ -18,6 +18,7 @@ div.about-me {
 }
 
 #about-me {
+  letter-spacing: 3px;
   text-align: center;
   font-family: "Times New Roman";
   font-size: 32px;
@@ -36,16 +37,14 @@ div.about-me {
   padding-bottom: 5px;
   border-top: solid;
   border-bottom: solid;
-  border-left: none;
-  border-right: none;
   border-width: 5px;
   border-color: white;
-  overflow: hidden;
 
 }
 
 
 div.header {
+  letter-spacing: 3px;
   clear: right;
   font-family: "Times New Roman";
   font-size: 24px;
@@ -64,17 +63,17 @@ div.header {
 
 #hehim {
   text-align: left;
-  clear: left;
+  clear: right;
   font-style: italic;
   font-size: 25px;
   margin-top: -44px;
-  margin-left: 330px;
+  margin-left: 400px;
   
 }
 
 div.contact {
   text-align: center;
-  word-wrap: break-word;
+  line-height: 1.5;
   float: right;
   clear: right;
   border-left: solid;
@@ -85,8 +84,19 @@ div.contact {
   width: 25%;
   height: 250px;
   background-color: darkgray;
-  line-height: 1.5;
-  font-size: 20px;
+  
+}
+
+#cont {
+  float: right;
+  clear: right;
+  margin-top: -1px;
+  margin-right: 50px;
+  letter-spacing: 3px;
+  border-bottom: solid;
+  border-width: 5px;
+  width: 65%;
+  
   
 }
 
@@ -94,9 +104,7 @@ div.contact {
 div.skills {
   text-align: center;
   text-indent: 10px;
-  font-size: 20px;
-  font-weight: bold;
-  word-wrap: break-word;
+  line-height: 1.5;
   float: right;
   clear: both;
   margin-top: 50px;
@@ -107,8 +115,18 @@ div.skills {
   border-width: 5px;
   width: 25%;
   background-color: darkgray;
-  height: 1350px;
-  line-height: 1.5;
+  height: 1250px;
+  
+}
+
+#skill {
+  float: right;
+  clear: right;
+  margin-right: 50px;
+  letter-spacing: 3px;
+  border-bottom: solid;
+  border-width: 5px;
+  width: 65%;
   
 }
 
@@ -117,10 +135,9 @@ div.pro-sup {
   border-width: 5px;
   clear: left;
   width: 60%;
-  height: 45%;
   margin-left: 40px;
-  padding-bottom: 20px;
-  line-height: 1.4;
+  padding-bottom: 40px;
+  line-height: 1;
   
 }
 
@@ -129,10 +146,9 @@ div.flt-chief {
   border-width: 5px;
   clear: left;
   width: 60%;
-  height: 45%;
   margin-left: 40px;
-  padding-bottom: 20px;
-  line-height: 1.4;
+  padding-bottom: 40px;
+  line-height: 1;
 }
 
 div.cc {
@@ -140,10 +156,9 @@ div.cc {
   border-width: 5px;
   clear: left;
   width: 60%;
-  height: 45%;
   margin-left: 40px;
-  padding-bottom: 20px;
-  line-height: 1.4;
+  padding-bottom: 40px;
+  line-height: 1;
 }
 
 
@@ -153,8 +168,6 @@ div.edu-his {
   margin-top: px;
   margin-left: 40px;
   line-height: 1;
-  width: 60%;
-  height: 45%;
   
 }
 
