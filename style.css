@@ -72,13 +72,15 @@ div.header {
 }
 
 div.exp {
+  font-size: 22px;
   text-align: center;
+  line-height: .5;
   clear: left;
-  margin-left: 260px;
-  letter-spacing: 3px;
+  margin-left: 220px;
+  letter-spacing: 5px;
   border-bottom: solid;
   border-width: 5px;
-  width:25%;
+  width:35%;
   
 }
 
@@ -126,7 +128,8 @@ div.skills {
   border-width: 5px;
   width: 25%;
   background-color: darkgray;
-  height: 1250px;
+  height: 1400px;
+  max-height: 2000px;
   
 }
 
@@ -148,6 +151,7 @@ div.pro-sup {
   clear: left;
   width: 60%;
   margin-left: 40px;
+  padding-top: 20px;
   padding-bottom: 40px;
   line-height: 1;
   
@@ -173,16 +177,30 @@ div.cc {
   line-height: 1;
 }
 
-
-div.edu-his {
-  float: left;
-  padding: 5px;
-  margin-top: px;
-  margin-left: 40px;
-  line-height: 1;
+div.edu {
+  font-size: 22px;
+  text-align: center;
+  line-height: .5;
+  clear: left;
+  margin-left: 220px;
+  margin-top: 50px;
+  letter-spacing: 5px;
+  border-bottom: solid;
+  border-width: 5px;
+  width:35%;
   
 }
 
+
+div.edu-his {
+  float: left;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 40px;
+  width: 60%;
+  line-height: 1;
+  
+}
 
 img {
   float: left;
