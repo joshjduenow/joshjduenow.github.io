@@ -32,7 +32,8 @@ div.about-me {
   height: 180px;
   max-width: 45%;
   margin-top: -5px;
-  margin-left: 33%;
+  margin-left: 34%;
+  margin-right: 15%;
   padding-top: 5px;
   padding-bottom: 5px;
   border-top: solid;
@@ -63,7 +64,7 @@ div.header {
 
 #hehim {
   text-align: left;
-  clear: right;
+  clear: left;
   font-style: italic;
   font-size: 25px;
   margin-top: -44px;
