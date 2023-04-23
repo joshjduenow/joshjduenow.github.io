@@ -63,9 +63,9 @@ div.header {
 }
 
 #hehim {
-  text-align: left;
   clear: left;
   font-style: italic;
+  width: 15%;
   font-size: 25px;
   margin-top: -44px;
   margin-left: 400px;
@@ -105,7 +105,7 @@ div.contact {
   float: right;
   clear: right;
   margin-right: 50px;
-  margin-left: 50px;
+  margin-left: 60px;
   letter-spacing: 3px;
   border-bottom: solid;
   border-width: 5px;
