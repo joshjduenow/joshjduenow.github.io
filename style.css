@@ -28,6 +28,7 @@ div.about-me {
 
 #bragarea {
   text-align: center;
+  overflow: hidden;
   line-height: 1.5;
   font-size: 16px;
   color: black;
@@ -36,8 +37,8 @@ div.about-me {
   margin-top: -5px;
   margin-left: 30%;
   margin-right: 15%;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-top: solid;
   border-bottom: solid;
   border-width: 5px;
@@ -74,15 +75,16 @@ div.header {
 }
 
 div.exp {
+  clear: left;
+  overflow: hidden;
   font-size: 22px;
   text-align: center;
   line-height: .5;
-  clear: left;
   margin-left: 220px;
   letter-spacing: 5px;
   border-bottom: solid;
   border-width: 5px;
-  width:35%;
+  width: 35%;
   
 }
 
