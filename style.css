@@ -28,14 +28,16 @@ div.about-me {
 
 #bragarea {
   text-align: center;
+  line-height: 1.5;
+  font-size: 16px;
   color: black;
-  height: 180px;
+  height: 150px;
   max-width: 45%;
   margin-top: -5px;
   margin-left: 34%;
   margin-right: 15%;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   border-top: solid;
   border-bottom: solid;
   border-width: 5px;
@@ -86,7 +88,7 @@ div.exp {
 
 div.contact {
   text-align: center;
-  line-height: 1.5;
+  line-height: 1.8;
   float: right;
   clear: right;
   border-left: solid;
@@ -104,7 +106,7 @@ div.contact {
   float: right;
   clear: right;
   margin-right: 50px;
-  margin-left: 60px;
+  margin-left: 70px;
   letter-spacing: 3px;
   border-bottom: solid;
   border-width: 5px;
@@ -117,7 +119,7 @@ div.contact {
 div.skills {
   text-align: center;
   text-indent: 10px;
-  line-height: 1.5;
+  line-height: 1.8;
   float: right;
   clear: both;
   margin-top: 50px;
@@ -136,6 +138,7 @@ div.skills {
 #skill {
   float: right;
   clear: right;
+  margin-top: 50px;
   margin-right: 50px;
   margin-left: 50px;
   letter-spacing: 3px;
